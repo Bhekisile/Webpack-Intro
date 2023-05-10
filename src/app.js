@@ -1,3 +1,3 @@
-import './style.css';
+import './main.css';
 
-document.innerHTML = 'Hola!';
+document.textContent = 'Hello';
